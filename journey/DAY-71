@@ -1,0 +1,51 @@
+# 🚀 Learning Journey – Day 71
+**Day:** 9/2/2027
+
+---
+
+Today was focused on **Binary Tree traversal mastery**, especially **iterative approaches**, along with continued learning of **React components**.
+
+---
+#### 📌 Binary Tree Traversals (Practice + Implementation)
+
+- **Level Order Traversal**
+  - Breadth First Search using a queue
+  - Understood level-by-level traversal
+
+- **Iterative Preorder Traversal**
+  - Stack-based approach
+  - Avoiding recursion
+
+- **Iterative Inorder Traversal**
+  - Using stack to simulate recursion
+  - Left-root-right processing
+
+- **Postorder Traversal using 2 Stacks**
+  - Clear understanding of traversal reversal
+  - Step-by-step stack flow
+
+- **Postorder Traversal using 1 Stack**
+  - Advanced logic
+  - Tracking previously visited nodes
+
+- **Preorder, Inorder, and Postorder in One Traversal**
+  - Single-pass traversal technique
+  - Using stack with state tracking
+  - Strong boost to tree logic understanding
+
+Concepts strengthened:
+- Stack usage in trees
+- Difference between recursive vs iterative solutions
+- Traversal order control
+- Interview-oriented tree logic
+
+---
+
+### 🔹 Web Development – React
+- Revised and practiced **React Components**
+- Focused on:
+  - Component structure
+  - Reusability
+  - Clean separation of UI logic
+
+---
